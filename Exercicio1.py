@@ -8,4 +8,4 @@ while K < INDICE :
     SOMA = SOMA + K
 
 
-print(SOMA);
+print(SOMA); #Resposta é 91
